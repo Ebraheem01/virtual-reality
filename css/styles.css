@@ -65,4 +65,12 @@ li {
     font-size: 30px;
 }
 
+.main-content {
+    column-count: 6;
+}
+
+.card {
+    
+}
+
 
